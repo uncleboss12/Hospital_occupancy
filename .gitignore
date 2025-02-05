@@ -1,0 +1,12 @@
+# Data files
+
+*.csv
+*.dta
+*.parquet
+
+# Temporary files 
+*.tmp
+
+# Directories
+/data/
+__pycache__/
